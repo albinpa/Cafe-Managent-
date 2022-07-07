@@ -1,3 +1,3 @@
-# Cafe-Managent-
-# Cmplete MEAN stack application
-# For cafe management 
+# Cafe-Management-
+# Complete MEAN stack application
+
